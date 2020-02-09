@@ -18,6 +18,6 @@ class ExampleUnitTest {
     @Test
     fun subtraction_isCorrect() {
         // writing a failing test case
-        assertEquals(3, 2 - 2)
+        assertEquals(0, 2 - 2)
     }
 }
